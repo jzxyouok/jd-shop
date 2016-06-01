@@ -1,0 +1,114 @@
+[ 2016-05-06T16:48:17+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:A
+
+[ 2016-05-06T16:48:17+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Ad
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Ad
+
+[ 2016-05-06T16:48:18+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Adm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adm
+
+[ 2016-05-06T16:48:18+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Admi
+
+[ 2016-05-06T16:50:49+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Adminx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adminx
+
+[ 2016-05-06T17:22:14+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/H
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:H
+
+[ 2016-05-06T17:22:14+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Ho
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Ho
+
+[ 2016-05-06T17:22:14+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Hom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Hom
+
+[ 2016-05-06T17:22:28+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:A
+
+[ 2016-05-06T17:22:28+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/ad
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ad
+
+[ 2016-05-06T17:22:29+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/adm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adm
+
+[ 2016-05-06T17:22:29+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Admi
+
+[ 2016-05-06T17:22:40+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/h/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:H
+
+[ 2016-05-06T17:22:41+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/ho/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ho
+
+[ 2016-05-06T17:22:41+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/hom/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Hom
+
+[ 2016-05-06T17:23:25+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/a/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:A
+
+[ 2016-05-06T17:23:25+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/ad/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ad
+
+[ 2016-05-06T17:23:25+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/adm/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adm
+
+[ 2016-05-06T17:23:25+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admi/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Admi
+

@@ -1,0 +1,623 @@
+[ 2016-05-13T16:02:49+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.042003s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.042003s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 72 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 107 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.146009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.146009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:02:53+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php?c=index&a=loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:loginout
+
+[ 2016-05-13T16:03:56+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php?c=index&a=logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:03:58+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:04:03+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:04:58+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sf_admin` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-05-13T16:05:01+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'sftp.sf_admin_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sf_admin_user`
+ERR: 1146:Table 'sftp.sf_admin_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sf_admin_user`
+
+[ 2016-05-13T16:05:16+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sf_admin` LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `sf_admin` ORDER BY id LIMIT 0,2  
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `sf_admin` ORDER BY id LIMIT 0,2  
+
+[ 2016-05-13T16:05:23+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sf_admin` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sf_admin` ORDER BY aid LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 72 行.
+NOTIC: [8] Undefined index: id D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 122 行.
+NOTIC: [8] Undefined index: username D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 123 行.
+NOTIC: [8] Undefined index: role_id D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 124 行.
+NOTIC: [8] Undefined index: create_time D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 125 行.
+NOTIC: [8] Undefined index: id D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 128 行.
+NOTIC: [8] Undefined index: id D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:05:23+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:07:46+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sf_admin` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sf_admin` ORDER BY aid LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:07:46+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:15:57+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sf_admin` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sf_admin` ORDER BY aid LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:15:57+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:15:58+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:index
+
+[ 2016-05-13T16:16:21+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:16:23+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sf_admin` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sf_admin` ORDER BY aid LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:16:24+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:16:33+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sf_admin` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sf_admin` ORDER BY aid LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:16:33+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/admin/user/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:16:35+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sf_node` [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 72 行.
+NOTIC: [8] Undefined variable: total D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 95 行.
+NOTIC: [8] Undefined variable: lists D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 120 行.
+NOTIC: [8] Undefined variable: pageNum D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 135 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:16:35+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:21:46+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sf_node` [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 72 行.
+NOTIC: [8] Undefined variable: total D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 95 行.
+NOTIC: [8] Undefined variable: lists D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 120 行.
+NOTIC: [8] Undefined variable: pageNum D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 135 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:21:46+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:21:48+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:21:49+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:44:56+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:44:56+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:46:28+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sf_admin` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sf_admin` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sf_admin` ORDER BY aid LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:46:28+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/user/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:46:30+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Role
+
+[ 2016-05-13T16:48:27+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Role
+
+[ 2016-05-13T16:48:29+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sf_node` [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 72 行.
+NOTIC: [8] Undefined variable: total D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 95 行.
+NOTIC: [8] Undefined variable: lists D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 120 行.
+NOTIC: [8] Undefined variable: pageNum D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\4068f1f913522b3b9d9244055c13ce03.php 第 135 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-13T16:48:30+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:48:32+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:48:32+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:admin
+
+[ 2016-05-13T16:56:43+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 25 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 46 行.
+NOTIC: [8] Undefined variable: _STATIC_ D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 48 行.
+NOTIC: [8] Undefined variable: CURRENT_USER D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+NOTIC: [8] Undefined variable: val D:\WWW\git_clone\shop_code\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-13T16:56:44+08:00 ] 127.0.0.1 /git_clone/shop_code/index.php/Admin/node/admin/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:admin
+
